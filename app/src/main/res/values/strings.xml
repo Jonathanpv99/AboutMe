@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Jonathan Peña Vega</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hola me llamo Jonathan Peña Vega
+        \n\n pero todos me dicen Peña incluso el profe
+        \n\n voy en 9no semestre de la carrera
+        \n\n pero aun me falta para acabarla son carreras
+        \n\n no carreritas :)
+        \n\n le voy a las poderosisimas chivalacticas</string>
+
+</resources>
